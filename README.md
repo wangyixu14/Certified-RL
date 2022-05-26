@@ -1,10 +1,4 @@
 ### Set up
-'''
-python
-
-'''
-
-=======
 ```python
 conda create -n jointdiff python=3.7
 conda activate jointdiff
